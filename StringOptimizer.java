@@ -1,4 +1,5 @@
 
+// Capgemini asked interview question for 4 year Java fullStack Backend Role
 
 public class StringOptimizer
 {
