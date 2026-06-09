@@ -23,6 +23,6 @@ public class StringOptimizer
 		
 		output=output+s.charAt(s.length()-1)+count;
 		
-		System.out.println(output);
+		System.out.println(output); // Output: a2b3c2d1a2e2f2b2
 	}
 }
